@@ -1,0 +1,11 @@
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\bin\Debug\netcoreapp2.0\BackEndTestAPI.deps.json
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\bin\Debug\netcoreapp2.0\BackEndTestAPI.runtimeconfig.json
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\bin\Debug\netcoreapp2.0\BackEndTestAPI.runtimeconfig.dev.json
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\bin\Debug\netcoreapp2.0\BackEndTestAPI.dll
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\bin\Debug\netcoreapp2.0\BackEndTestAPI.pdb
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.csprojResolveAssemblyReference.cache
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.csproj.CoreCompileInputs.cache
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.AssemblyInfoInputs.cache
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.AssemblyInfo.cs
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.dll
+D:\YouTube\GraphQL\BackEndTestAPI\BackEndTestAPI\obj\Debug\netcoreapp2.0\BackEndTestAPI.pdb

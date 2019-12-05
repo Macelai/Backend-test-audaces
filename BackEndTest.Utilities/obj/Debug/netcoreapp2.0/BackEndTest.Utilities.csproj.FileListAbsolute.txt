@@ -1,0 +1,17 @@
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.deps.json
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csproj.CoreCompileInputs.cache
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfoInputs.cache
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfo.cs
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/RealEstateGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+/home/mazza/BackEndTest/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.deps.json
+/home/mazza/BackEndTest/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/BackEndTest/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csprojAssemblyReference.cache
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csproj.CoreCompileInputs.cache
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfoInputs.cache
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfo.cs
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/BackEndTest/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb

@@ -1,0 +1,17 @@
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.deps.json
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csproj.CoreCompileInputs.cache
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfoInputs.cache
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfo.cs
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+D:/YouTube/GraphQL/BackEndTestAPI/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.deps.json
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/bin/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csprojAssemblyReference.cache
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.csproj.CoreCompileInputs.cache
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfoInputs.cache
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.AssemblyInfo.cs
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.dll
+/home/mazza/BackEndTestGraphQL/BackEndTest.Utilities/obj/Debug/netcoreapp2.0/BackEndTest.Utilities.pdb

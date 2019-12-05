@@ -1,0 +1,14 @@
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.csprojAssemblyReference.cache
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.csproj.CoreCompileInputs.cache
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.AssemblyInfoInputs.cache
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.AssemblyInfo.cs
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/BackEndTest.UnitTest.deps.json
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/BackEndTest.UnitTest.runtimeconfig.json
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/BackEndTest.UnitTest.runtimeconfig.dev.json
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/BackEndTest.UnitTest.dll
+/home/mazza/BackEndTest/BackEndTest.UnitTest/bin/Debug/netcoreapp2.2/BackEndTest.UnitTest.pdb
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.dll
+/home/mazza/BackEndTest/BackEndTest.UnitTest/obj/Debug/netcoreapp2.2/BackEndTest.UnitTest.pdb
